@@ -42,23 +42,30 @@ const Naviguation = () => {
       <div className="socialNetwork">
         <ul>
           <li>
-            <a href="https://www.google.com" target="_blank" rel="noreferrer">
+            <a
+              href="https://www.linkedin.com/in/raphael-bethaz-6055991b6/"
+              target="_blank"
+              rel="noreferrer"
+            >
               <i className="fab fa-linkedin"></i>
             </a>
           </li>
           <li>
-            <a href="https://www.google.com" target="_blank" rel="noreferrer">
+            <a
+              href="https://github.com/RBethaz"
+              target="_blank"
+              rel="noreferrer"
+            >
               <i className="fab fa-github"></i>
             </a>
           </li>
           <li>
-            <a href="https://www.google.com" target="_blank" rel="noreferrer">
+            <a
+              href="https://twitter.com/Izuchii07"
+              target="_blank"
+              rel="noreferrer"
+            >
               <i className="fab fa-twitter"></i>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.google.com" target="_blank" rel="noreferrer">
-              <i className="fab fa-codepen"></i>
             </a>
           </li>
         </ul>
